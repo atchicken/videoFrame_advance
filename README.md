@@ -11,6 +11,4 @@ python debugVideo.py
 if You Press Any Key, Move to the Next Frame
 
 ## Details(Japanese)
-・Qiita
-
-https://qiita.com/atchicken/items/f196afb3ce5ff96087c6
+・[Qiita](https://qiita.com/atchicken/items/f196afb3ce5ff96087c6)
